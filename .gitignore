@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+__pycache__/
+*.log
+_seg*.mp4
+预览/撤销
